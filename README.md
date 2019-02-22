@@ -10,8 +10,6 @@ _This application provides the "client" with a website for their company, to fin
 
 ## User Stories
 
-Specification | Input | Output
-------------- | ----- | ------
 * _As a potential client, I want to see the office space and included services so I can know if it's somewhere I'd like to work._
 * _As a potential client, I want to see answered to commonly asked questions about the company so I can have all the information I need._
 * _As a potential client, I want to be able to get in contact with the company to have any other specific questions answered._
@@ -19,6 +17,27 @@ Specification | Input | Output
 * _As a current client, I want to see the office hours so I can plan my work week appropriately._
 * _As a current client, I want to be able to get in contact with the company so I can give feedback and suggestions about my NeighborSpace._
 * _As the owner, I want to feel like the website gives a good vibe of the company and plenty of information so potential clients feel welcome._
+
+## Brainstorm
+
+#### Thought Process
+  _I want to look at other websites for other companies like this, but also sites for smaller less corporate sites of different kinds for inspiration on themes and color schemes._
+
+#### Researched Sites
+
+Company Site | What I Liked | What I Didn't
+------------- | ----- | ------
+WeWork | Clean design, Smooth media queries, Lots of info throughout | Too much white, Boring design, Lots of click throughs
+TechSpace | Visually interesting, Consistent color scheme | Specific info pages kind of bare, Poor visual hierarchy
+Case Study | More intimate/niche feeling, Unique visual style | Limited info, Empty looking pages
+
+#### Ideas
+* _Amenities in a prominent position_
+* _Limited color scheme, warm and graphic (tan, light pink, and sky blue maybe?)_
+* _Unique Features given more visual space and weight_
+* _Very obvious layout for clients not in the tech field/tech-illiterate_
+* _Community features?_
+* _Profile/login pages_
 
 <!-- ## Setup/Installation Requirements
 
