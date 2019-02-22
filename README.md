@@ -39,6 +39,20 @@ Case Study | More intimate/niche feeling, Unique visual style | Limited info, Em
 * _Community features?_
 * _Profile/login pages_
 
+## Paper Sketches
+
+![alt text](img/sketches/IMG_9362.JPG)
+![alt text](img/sketches/IMG_9363.JPG)
+![alt text](img/sketches/IMG_9364.JPG)
+![alt text](img/sketches/IMG_9365.JPG)
+![alt text](img/sketches/IMG_9366.JPG)
+![alt text](img/sketches/IMG_9367.JPG)
+![alt text](img/sketches/IMG_9368.JPG)
+![alt text](img/sketches/IMG_9369.JPG)
+![alt text](img/sketches/IMG_9370.JPG)
+![alt text](img/sketches/IMG_9371.JPG)
+![alt text](img/sketches/IMG_9372.JPG)
+
 <!-- ## Setup/Installation Requirements
 
 * _Use your command terminal (gitbash if you're using a windows machine) to clone the latest commit from Github, using the url provided_
