@@ -53,6 +53,17 @@ Case Study | More intimate/niche feeling, Unique visual style | Limited info, Em
 ![alt text](img/sketches/IMG_9371.JPG)
 ![alt text](img/sketches/IMG_9372.JPG)
 
+## Sketch Wireframes
+
+![alt text](img/wireframes/landing-pic.png)
+![alt text](img/wireframes/menu-pic.png)
+![alt text](img/wireframes/contact-pic.png)
+![alt text](img/wireframes/team-select-pic.png)
+![alt text](img/wireframes/packages-pic.png)
+![alt text](img/wireframes/form-empty-pic.png)
+![alt text](img/wireframes/form-partial-pic.png)
+![alt text](img/wireframes/form-complete-pic.png)
+
 <!-- ## Setup/Installation Requirements
 
 * _Use your command terminal (gitbash if you're using a windows machine) to clone the latest commit from Github, using the url provided_
