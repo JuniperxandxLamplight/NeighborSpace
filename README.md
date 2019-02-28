@@ -8,6 +8,14 @@
 
 _This application provides the "client" with a website for their company, to find new clients and help exiting ones with anything they need._
 
+## User Personas
+
+Name | Needs | Pain Points | How to Serve
+------------- | ----- | ------
+Hermione | info about workspace closure, tell owners about problems | corporate environment | direct contact page, office hours and closure banners
+Harry | info about the included amenities, prices of spaces, talk to owner about specific needs | backlog of page info, gimmicky sales stuff | small easy to navigate website, directly priced packages
+Ronald | to attract clients to the workspace | corporate overlords being more recognizable and looking good | a clean, beautiful site that makes clients feel more at ease with their company
+
 ## User Stories
 
 * _As a potential client, I want to see the office space and included services so I can know if it's somewhere I'd like to work._
