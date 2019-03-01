@@ -18,7 +18,9 @@
     "url": "https://github.com/JuniperxandxLamplight/NeighborSpace/issues"
   },
   "homepage": "https://github.com/JuniperxandxLamplight/NeighborSpace#readme",
-  "dependencies": {},
+  "dependencies": {
+    "jquery": "^3.3.1"
+  },
   "devDependencies": {
     "clean-webpack-plugin": "^0.1.18",
     "css-loader": "^0.28.10",

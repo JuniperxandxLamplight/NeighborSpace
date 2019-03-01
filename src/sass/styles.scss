@@ -91,16 +91,48 @@ header{
   }
 }
 nav{
-  background-color: lightgray;
-  color: $header-color;
-  box-shadow: $main-shadow,
-              inset 0px -2px 7px gray;
-  width: 7rem;
-  margin: 0 auto;
-  padding: .5rem 0;
-  border-bottom-left-radius: 1rem;
-  border-bottom-right-radius: 1rem;
-  border: 1px solid gray;
+  .menu-closed{
+    background-color: lightgray;
+    color: $header-color;
+    box-shadow: $main-shadow,
+    inset 0px -2px 7px gray;
+    width: 7rem;
+    margin: 0 auto;
+    padding: .5rem 0;
+    border-bottom-left-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+    border: 1px solid gray;
+  }
+  .menu-open{
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    left: 33%;
+    z-index: 1050;
+    overflow: hidden;
+    outline: 0;
+    background-color: white;
+    box-shadow: $main-shadow,
+    inset 0px -2px 7px gray;
+    width: 34%;
+    height: auto;
+    margin: 0 auto;
+    border-bottom-left-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+    border: 1px solid gray;
+    display: none;
+    h5{
+      color: $header-color;
+    }
+    a{
+      font-weight: bold;
+      margin: 1rem;
+    }
+  }
+  .menu-current{
+    overflow-x: hidden;
+    overflow-y: auto;
+  }
 }
 
 .info-box{
