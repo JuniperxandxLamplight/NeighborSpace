@@ -44,8 +44,17 @@ table {
 }
 
 // variables
-$header-color: darken(gray, 25);
+$header-color: darken(gray, 15);
 $main-shadow: 0px 3px 5px gray;
+$inner-shadow: inset 0px -2px 5px gray;
+
+// mixins
+@mixin header-font{
+  color: $header-color;
+  font-size: 3rem;
+  font-weight: bold;
+  text-shadow: $main-shadow;
+}
 
 // styles
 
@@ -79,10 +88,33 @@ header{
 nav{
   background-color: lightgray;
   color: $header-color;
-  box-shadow: $main-shadow;
+  box-shadow: $main-shadow,
+              $inner-shadow;
   width: 7rem;
   margin: 0 auto;
   padding: .5rem 0;
   border-bottom-left-radius: 1rem;
   border-bottom-right-radius: 1rem;
+}
+
+.info-box{
+  >*{
+    padding: 1rem 0;
+  }
+  h1{
+    @include header-font;
+  }
+  .focus-box{
+    background-color: white;
+    border-radius: 1rem;
+    box-shadow: $main-shadow,
+                $inner-shadow;
+    margin: 0 2rem;
+  }
+  img{
+    width: 80%;
+    height: auto;
+    border-radius: 1rem;
+    margin-top: 1rem;
+  }
 }
