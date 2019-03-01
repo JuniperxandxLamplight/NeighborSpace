@@ -45,8 +45,9 @@ table {
 
 // variables
 $header-color: darken(gray, 15);
-$main-shadow: 0px 3px 5px gray;
-$inner-shadow: inset 0px -2px 5px gray;
+$link-color: darken(aqua, 5);
+$main-shadow: 0px 3px 7px gray;
+$inner-shadow: inset 0px -2px 5px lightgray;
 
 // mixins
 @mixin header-font{
@@ -67,6 +68,10 @@ body{
   background-color: darken(white, 5);
   text-align: center;
   color: gray;
+  a{
+    color: $link-color;
+    text-decoration: none;
+  }
 }
 header{
   font-family: 'Pacifico', cursive;
@@ -89,12 +94,13 @@ nav{
   background-color: lightgray;
   color: $header-color;
   box-shadow: $main-shadow,
-              $inner-shadow;
+              inset 0px -2px 7px gray;
   width: 7rem;
   margin: 0 auto;
   padding: .5rem 0;
   border-bottom-left-radius: 1rem;
   border-bottom-right-radius: 1rem;
+  border: 1px solid gray;
 }
 
 .info-box{
@@ -104,17 +110,31 @@ nav{
   h1{
     @include header-font;
   }
-  .focus-box{
-    background-color: white;
-    border-radius: 1rem;
-    box-shadow: $main-shadow,
-                $inner-shadow;
-    margin: 0 2rem;
-  }
   img{
     width: 80%;
     height: auto;
     border-radius: 1rem;
     margin-top: 1rem;
   }
+}
+
+.focus-box{
+  background-color: white;
+  border-radius: 1rem;
+  box-shadow: $main-shadow,
+  $inner-shadow;
+  margin: 0 2rem
+  5rem 2rem;
+}
+
+#connection-box{
+  margin: 5rem;
+  padding: 1rem;
+  p{
+    margin: .25rem 0;
+  }
+}
+
+.copywrite{
+  font-size: 1.5rem;
 }
