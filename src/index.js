@@ -1,4 +1,5 @@
 import './sass/styles.scss';
+import $ from 'jquery';
 
 $(function(){
   $(".menu-closed").click(function(){
