@@ -44,7 +44,7 @@ module.exports = {
       {
         test: /\.(png|jpg)$/,
         loader: 'url-loader'
-      };
+      },
 
       {
         test:/\.html$/,
@@ -58,11 +58,6 @@ module.exports = {
 
   plugins: [
 
-    new webpack.ProvidePlugin({
-      $: 'jquery',
-      jQuery: 'jquery'
-    });
-
     new HtmlWebpackPlugin({
       inject: 'body',
       template: './src/index.html',
@@ -74,7 +69,6 @@ module.exports = {
     }),
 
     new HtmlWebpackPlugin({
-      inject: 'body',
       template: './src/contact.html',
       filename: 'contact.html',
       minify: {
@@ -84,9 +78,8 @@ module.exports = {
     }),
 
     new HtmlWebpackPlugin({
-      inject: 'body',
-      template: './src/sign-up.html',
-      filename: 'sign-up.html',
+      template: './src/packages.html',
+      filename: 'packages.html',
       minify: {
        removeComments: true,
        collapseWhitespace: true

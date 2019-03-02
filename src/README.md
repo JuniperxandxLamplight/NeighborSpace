@@ -72,27 +72,27 @@ Case Study | More intimate/niche feeling, Unique visual style | Limited info, Em
 ![alt text](img/wireframes/form-partial-pic.png)
 ![alt text](img/wireframes/form-complete-pic.png)
 
-<!-- ## Setup/Installation Requirements
+## Setup/Installation Requirements
 
 * _Use your command terminal (gitbash if you're using a windows machine) to clone the latest commit from Github, using the url provided_
 * _Open with a text editor such as Atom to view the code_
-* _Then, open the file labeled "index.html" with your preferred web browser, such as Chrome, to view the actual page_
+* _In your terminal run the command "npm install"_
+* _Then, run the command "npm run start" to view_
 
 ## Known Bugs
 
-_there are currently no known bugs._
+_images do not show up sometimes_
 
 ## Support and contact details
-_If you encounter any bugs or issues not documented during your experience, please feel free to contact me at my email: nathans-email@email.com_
+_If you encounter any bugs or issues not documented during your experience, please feel free to contact me at my email: fullmetalwoman@gmail.com_
 
 ## Technologies used
 
-_This application was created using HTML, CSS, Bootstrap, Javascript and Jquery_
-_Music royalty-free from BenSound and Purple-Planet.com_
+_This application was created using HTML and CSS_
 
 ### License
 
-Copyright (c) 2019 **_ Aurora Shido-Wagenet, Nathan Nielson, Nayomi Morita, Slater Smith, Epicodus_**
+Copyright (c) 2019 **_ Aurora Shido-Wagenet_**
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
