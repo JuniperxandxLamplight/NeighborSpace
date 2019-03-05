@@ -180,12 +180,18 @@ nav{
     transform: rotate(-30deg);
     width: 100%;
     overflow: hidden;
+		img{
+			width: 100%;
+		}
   }
   .letter{
     grid-area: 2 / 2 / 10 / 8;
     background-color: white;
     z-index: 1;
     box-shadow: $main-shadow;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
   }
   #pen{
     grid-area: 6 / 6 / 11 / 8;
@@ -195,11 +201,18 @@ nav{
     transform: rotate(20deg);
   }
   input{
-    margin: .25rem;
-    padding: .25px;
+		margin: .25rem;
+    padding: .25rem;
     border: 1px solid gray;
     border-radius: 5px;
   }
+	button{
+		background: transparent;
+		border: 2px solid $link-color;
+		color: $link-color;
+		padding: .5rem 1rem;
+		border-radius: 10px;
+	}
   #message-input{
     padding-bottom: 50px;
   }
