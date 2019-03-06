@@ -10,11 +10,55 @@ _This application provides the "client" with a website for their company, to fin
 
 ## User Personas
 
-Name | Needs | Pain Points | How to Serve
-------------- | ----- | ------
-Hermione | info about workspace closure, tell owners about problems | corporate environment | direct contact page, office hours and closure banners
-Harry | info about the included amenities, prices of spaces, talk to owner about specific needs | backlog of page info, gimmicky sales stuff | small easy to navigate website, directly priced packages
-Ronald | to attract clients to the workspace | corporate overlords being more recognizable and looking good | a clean, beautiful site that makes clients feel more at ease with their company
+#### Hermione
+
+_A current neighbor_
+
+###### Needs
+* _info about workspace closure_
+* _to tell owners about problems_
+* _to feel like part of a community_
+
+###### Pain Points
+* _lack of ways to contact owners_
+* _hard time connecting with other neighbors_
+
+###### How to Serve
+* _contact page_
+* _office hours_
+
+#### Harry
+
+_A potential neighbor_
+
+###### Needs
+* _info about included amenities_
+* _prices of spaces_
+* _office hours_
+
+###### Pain Points
+* _backlog of page info_
+* _gimmicky sales pitches_
+* _too many corporate feeling spaces_
+
+###### How to Serve
+* _small, easy to navigate website_
+* _directly priced packages_
+
+#### Harry
+
+_Co-Owner of NeighborSpace_
+
+###### Needs
+* _to attract new neighbors to the space_
+
+###### Pain Points
+* _corporate companies having more money and spaces_
+* _lack of brand recognizability_
+
+###### How to Serve
+* _a clean site that feels more personal_
+* _a theme to attract different kinds of clients_
 
 ## User Stories
 
