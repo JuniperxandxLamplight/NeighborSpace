@@ -93,28 +93,28 @@ Case Study | More intimate/niche feeling, Unique visual style | Limited info, Em
 
 ## Paper Sketches
 
-![alt text](img/sketches/IMG_9362.JPG)
-![alt text](img/sketches/IMG_9363.JPG)
-![alt text](img/sketches/IMG_9364.JPG)
-![alt text](img/sketches/IMG_9365.JPG)
-![alt text](img/sketches/IMG_9366.JPG)
-![alt text](img/sketches/IMG_9367.JPG)
-![alt text](img/sketches/IMG_9368.JPG)
-![alt text](img/sketches/IMG_9369.JPG)
-![alt text](img/sketches/IMG_9370.JPG)
-![alt text](img/sketches/IMG_9371.JPG)
-![alt text](img/sketches/IMG_9372.JPG)
+![alt text](src/assets/images/sketches/IMG_9362.JPG)
+![alt text](src/assets/images/sketches/IMG_9363.JPG)
+![alt text](src/assets/images/sketches/IMG_9364.JPG)
+![alt text](src/assets/images/sketches/IMG_9365.JPG)
+![alt text](src/assets/images/sketches/IMG_9366.JPG)
+![alt text](src/assets/images/sketches/IMG_9367.JPG)
+![alt text](src/assets/images/sketches/IMG_9368.JPG)
+![alt text](src/assets/images/sketches/IMG_9369.JPG)
+![alt text](src/assets/images/sketches/IMG_9370.JPG)
+![alt text](src/assets/images/sketches/IMG_9371.JPG)
+![alt text](src/assets/images/sketches/IMG_9372.JPG)
 
 ## Sketch Wireframes
 
-![alt text](img/wireframes/landing-pic.png)
-![alt text](img/wireframes/menu-pic.png)
-![alt text](img/wireframes/contact-pic.png)
-![alt text](img/wireframes/team-select-pic.png)
-![alt text](img/wireframes/packages-pic.png)
-![alt text](img/wireframes/form-empty-pic.png)
-![alt text](img/wireframes/form-partial-pic.png)
-![alt text](img/wireframes/form-complete-pic.png)
+![alt text](src/assets/images/wireframes/landing-pic.png)
+![alt text](src/assets/images/wireframes/menu-pic.png)
+![alt text](src/assets/images/wireframes/contact-pic.png)
+![alt text](src/assets/images/wireframes/team-select-pic.png)
+![alt text](src/assets/images/wireframes/packages-pic.png)
+![alt text](src/assets/images/wireframes/form-empty-pic.png)
+![alt text](src/assets/images/wireframes/form-partial-pic.png)
+![alt text](src/assets/images/wireframes/form-complete-pic.png)
 
 ## Setup/Installation Requirements
 
